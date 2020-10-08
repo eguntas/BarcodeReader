@@ -4,7 +4,7 @@ import retrofit2.Retrofit;
 
 public class ApiUtils {
 
-    public static final String BASE_URL = "http://maskinformationapi.isko.com.tr/";
+    public static final String BASE_URL = "/*your web service url*/";
     //"http://10.30.25.23:4000/"
 
     public static MaskeService getMaskeService(){
